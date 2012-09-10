@@ -1,6 +1,7 @@
 /**
  * A lightweight wrapper for console.log
  * Based on http://paulirish.com/2009/log-a-lightweight-wrapper-for-consolelog/
+ * URL: https://github.com/modusoperandi/js-console-log/blob/master/consolelog.js
  *
  */
 
